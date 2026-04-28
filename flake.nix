@@ -1,5 +1,5 @@
 {
-  description = "jinwoo's nix-darwin config (M3 MacBook Air)";
+  description = " ";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
